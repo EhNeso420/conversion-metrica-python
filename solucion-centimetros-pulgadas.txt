@@ -1,0 +1,31 @@
+--------------------------------------------
+Problemática:
+Una empresa yankee de muebles, está teniendo problemas a la hora de construir sus muebles 
+porque los diseños que usan son italianos y las medidas están en CM, siendo que ellos utilizan las pulgadas.
+Se producen errores en el paso de una medida a la otra.
+
+--------------------------------------------
+
+--------------------------------------------
+Algoritmo:
+1. Solicitar al usuario las medidas de los muebles en cms
+2. Convertir las medidas de cms a pulgadas
+3. Mostrar el resultado al usuario en pulgadas
+--------------------------------------------
+
+--------------------------------------------
+Pseudocódigo
+
+Inicio:
+
+    # Paso 1: Solicitar al usuario las medidas de los muebles en cms
+    Mostrar mensaje: "Por favor, ingresar las medidas de los muebles en cms: "
+
+    # Paso 2: Convertir las medidas de cms a pulgadas
+    Convertir medidas_pulgadas = medidas_cms / 2.54
+
+    # Paso 3: Mostrar el resultado al usuario en pulgadas
+    Mostrar mensaje: ("Las medidas en pulgadas de la pieza ingresada son:", medidas_pulgadas)
+
+Fin
+

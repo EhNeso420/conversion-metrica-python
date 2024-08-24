@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
+  <diagram name="Página-1" id="fljMlgz2pOsAZyU00WzQ">
+    <mxGraphModel dx="281" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CF5PLS5fn-3QTIdnLZLc-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CF5PLS5fn-3QTIdnLZLc-1" target="CF5PLS5fn-3QTIdnLZLc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CF5PLS5fn-3QTIdnLZLc-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="374" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CF5PLS5fn-3QTIdnLZLc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CF5PLS5fn-3QTIdnLZLc-2" target="CF5PLS5fn-3QTIdnLZLc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CF5PLS5fn-3QTIdnLZLc-2" value="Mostrar mensaje: &quot;Por favor, ingresar las medidas de los muebles en cms: &quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="336" y="180" width="156" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CF5PLS5fn-3QTIdnLZLc-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CF5PLS5fn-3QTIdnLZLc-4" target="CF5PLS5fn-3QTIdnLZLc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CF5PLS5fn-3QTIdnLZLc-4" value="Convertir medidas_pulgadas = medidas_cms / 2.54" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="329" y="310" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CF5PLS5fn-3QTIdnLZLc-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CF5PLS5fn-3QTIdnLZLc-6" target="CF5PLS5fn-3QTIdnLZLc-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CF5PLS5fn-3QTIdnLZLc-6" value="Mostrar mensaje: (&quot;Las medidas en pulgadas de la pieza ingresada son:&quot;, medidas_pulgadas)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="331" y="460" width="166" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CF5PLS5fn-3QTIdnLZLc-9" value="Fin" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="374" y="610" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
